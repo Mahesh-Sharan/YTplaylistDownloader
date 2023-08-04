@@ -9,4 +9,4 @@ Kindly install following libraries before proceeding further :
 
 Output Folder Eg: "Downloads/GtaV", Downloads is the directory and GtaV is a new folder created inside the Downloads Directory.
 
-That's it, Enjoy
+That's it, Enjoy🫶
